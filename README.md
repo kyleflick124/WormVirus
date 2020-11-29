@@ -23,7 +23,11 @@ import glob
 import random
 ```
 
-2. Construímos 2 scripts de python: 1 para o lado do cliente e outro para o lado do servidor. Os conteúdos
+2. Construímos 2 scripts de python: 1 para o lado do cliente e outro para o lado do servidor. Os conteúdos de cada script serão disponibilizados nas imagens ao fim do repositório.
+
+3. Os comandos possíveis de se usar em Windows para a cópia e transferência do conteúdo de arquivos foram estudados pelo site oficial da Microsoft.
+
+4. O programa foi convertido para um executável usando a biblioteca `pyinstaller`.
 ## Instalação:
 
 Após instalar o python, usando o GitHub pelo seu browser, clique no botão verde "Code" e em "Download ZIP". Após a conclusão do download, extraia a pasta para a sua área de trabalho.
@@ -43,7 +47,7 @@ Por enquanto não há nenhum bug visual ou de sintaxe no programa, mas qualquer 
 * Vinícius Carvalho Venturini ([Vinicius-Venturini](https://github.com/Vinicius-Venturini))
 
 ## Demais anotações e referências:
-
+[1] https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/windows-commands
 
 ## Imagens e Screenshots do programa:
 
