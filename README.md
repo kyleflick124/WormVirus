@@ -25,9 +25,9 @@ import random
 
 2. Construímos 2 scripts de python: 1 para o lado do cliente e outro para o lado do servidor. Os conteúdos de cada script serão disponibilizados nas imagens ao fim do repositório.
 
-3. Os comandos possíveis de se usar em Windows para a cópia e transferência do conteúdo de arquivos foram estudados pelo site oficial da Microsoft.
+3. Os comandos possíveis de se usar em Windows para a cópia e transferência do conteúdo de arquivos foram estudados pelo site oficial da Microsoft[1].
 
-4. O programa foi convertido para um executável usando a biblioteca `pyinstaller`.
+4. O programa foi convertido para um executável usando a biblioteca `pyinstaller`[2].
 ## Instalação:
 
 Após instalar o python, usando o GitHub pelo seu browser, clique no botão verde "Code" e em "Download ZIP". Após a conclusão do download, extraia a pasta para a sua área de trabalho.
@@ -48,6 +48,8 @@ Por enquanto não há nenhum bug visual ou de sintaxe no programa, mas qualquer 
 
 ## Demais anotações e referências:
 [1] https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/windows-commands
+
+[2] https://pyinstaller.readthedocs.io/en/stable/usage.html
 
 ## Imagens e Screenshots do programa:
 
