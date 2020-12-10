@@ -34,11 +34,14 @@ import random
 
 ## Execução:
 
-
+  Para executar o programa, é apenas necessário dar clique-duplo no executável do Among Us, e o worm abriria no computador do cliente.
 
 ## Bugs/problemas conhecidos:
 
-  Por enquanto não há nenhum bug visual ou de sintaxe no programa, mas qualquer problema com o programa basta mandar uma mensagem por email ou pelo discord/whatsapp do [HackoonSpace](https://hackoonspace.com) caso faça parte, ou para o GitHub de algum dos autores do projeto.
+  O programa deveria ser executado com a execução do atalho do Among Us, mas o atalho não funciona por motivos desconhecidos, provavelmente no caminho do arquivo. Para resolver, é só executá-lo pelo AmongUs.exe, dentro do AmongUs_Files.
+  Qualquer problema com o programa basta mandar uma mensagem por email ou pelo discord/whatsapp do [HackoonSpace](https://hackoonspace.com) caso faça parte, ou para o GitHub de algum dos autores do projeto.
+  
+  IMPORTANTE: O projeto foi feito apenas pelos integrantes do hackoonspace para ser testado e usado pelos mesmos. Por esse motivo, o projeto teve seu IP e porta de hospedamento alterados e removidos, para segurança e privacidade dos criadores do vírus.
 
 ## Autores:
 
