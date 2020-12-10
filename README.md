@@ -58,5 +58,8 @@ import random
 
 ## Imagens e Screenshots do programa:
 
+![imagem](https://github.com/kyleflick124/WormVirus/blob/main/arquivos.png)
+
+![imagem](https://github.com/kyleflick124/WormVirus/blob/main/download.png)
 
 
