@@ -31,6 +31,8 @@ import random
 ## Instalação:
 
   Após instalar o python, usando o GitHub pelo seu browser, clique no botão verde "Code" e em "Download ZIP". Após a conclusão do download, extraia a pasta para a sua área de trabalho.
+  
+  OBS: O arquivo com o Among Us é muito grande para ser exibido no github. Siga [esse link](https://drive.google.com/file/d/1XXsGyxCQ4gCutQhX_Gp3tg9hwutsv-Bw/view) para acessar o drive com o arquivo.
 
 ## Execução:
 
