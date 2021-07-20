@@ -1,5 +1,5 @@
 # WormVirus
-  Um repositório para guardar os passos e ideias que tivemos para fazer um vírus/malware, que ao estar escondido em um programa executável, se conecta com o computador no qual está hospedado o servidor e percorre todas as pastas do usuário em que está, em busca do arquivo alvo.
+Um repositório para guardar os passos e ideias que tivemos para fazer um vírus/malware, que ao estar escondido em um programa executável, se conecta com o computador no qual está hospedado o servidor e percorre todas as pastas do usuário em que está, em busca do arquivo alvo.
 Projeto desenvolvido para o segundo semestre de 2020 (2020/2) do HackoonSpace.
 
 :warning: ***AVISO IMPORTANTE! Esse repositório serve apenas para propósitos educacionais: não use para uso malicioso, não tomaremos responsabilidade por atos ilícitos. Este conteúdo só está disponibilizado para aprendizado e pesquisa.*** :warning:
